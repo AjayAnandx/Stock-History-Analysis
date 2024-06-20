@@ -17,3 +17,8 @@ To Plot the Graph:
 
 
              Pip install mathplotlib
+             
+
+To run the Code 
+
+             python Stock Analysis.py
